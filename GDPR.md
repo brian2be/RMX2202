@@ -1,5 +1,5 @@
 # RUI 4.0
-
+### https://forum.xda-developers.com/t/rmx2202-realme-gt-5g-ui2-0-ui3-0-ui4-0-full-package-update-file.4356507/
 
 - Install deeptest_RUI4.apk
 - Start processing, wait a while, go back, click upper-right corner to check status -> should OK
