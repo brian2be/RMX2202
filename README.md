@@ -53,3 +53,7 @@ https://github.com/topjohnwu/Magisk/releases
 # China Region all ver. Dont Flash to TWRP!!!
 
 all CN https://github.com/qiurigao/RMX2202/blob/main/cn.md
+
+# If error `FAILED (remote: 'Failed to load/authenticate boot image: Load Error')`
+then write vbmeta nd retry twrp
+`fastboot flash vbmeta vbmeta.img`
